@@ -1,0 +1,14 @@
+.inputfield{
+    width:40vw;
+    padding:1vw;
+    margin:0.5vw auto;
+    display: block;
+    outline:none;    
+}
+form{
+    outline:2px solid black;
+    width:50vw;
+    height:7vh;
+    padding:2vw;
+    margin: 4vw auto;
+}
